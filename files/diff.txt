@@ -1,0 +1,50 @@
+
+Algorithm: MD5
+hash.pdf ++ personal.txt
+hash.pdf ++ personal_.txt
+82cb13346bd152adcd086c65d4c825bc
+a3548a9daf5fd7a16edbb3bf144975eb
+Bit diff: 68 / 128 (53%)
+      
+Algorithm: SHA-1
+hash.pdf ++ personal.txt
+hash.pdf ++ personal_.txt
+da2b4251c703073ff5b019a665f57249e57e4c39
+96d947960eb8931f5b7acdf1edf0a94b04da6908
+Bit diff: 89 / 160 (56%)
+      
+Algorithm: SHA-224
+hash.pdf ++ personal.txt
+hash.pdf ++ personal_.txt
+33533be8b154a98e1f39800fee9c52561c444cafc2c17bfdc94eddd7
+23d7e6186db3215e907624ef1a7c9b9897187b1e76b1773e18a939be
+Bit diff: 114 / 224 (51%)
+      
+Algorithm: SHA-256
+hash.pdf ++ personal.txt
+hash.pdf ++ personal_.txt
+8f95f7782816372cd431d20f0747acdd163f245b477b2328f683580e48d96a0f
+a1b3830c043c435021682b5dfb80b5922302de4f0ef836d734c5df104db3cf75
+Bit diff: 125 / 256 (49%)
+      
+Algorithm: SHA-384
+hash.pdf ++ personal.txt
+hash.pdf ++ personal_.txt
+eb46ee14fc0f12eeab5c106901699f6b0762ff2995820b68eba3aa74899b085bffc4c082292749668819c93b0101d07d
+ff877d3408bd3581828c1ad0e178a70eae6d46a63a4fbe4498a5f9cc9cba4e39dd7ad796fb9479aae386e1fbf296094a
+Bit diff: 202 / 384 (53%)
+      
+Algorithm: SHA-512
+hash.pdf ++ personal.txt
+hash.pdf ++ personal_.txt
+83ddef955689072b2a1b92b758686e69328c0aa543f1ba3e9c1442854a0709e822cdbdd6acdc9b3498818c149e95461a281f16a6e085a16e6ce2807d664c825b
+98f778df3d41b0ac6117c573975fb270e513f843d736f061825492cdfe056cba1ef9411e6ea57816aa5493418e80c492b68cc8e6b45539d0c1ec95e8398320ae
+Bit diff: 262 / 512 (51%)
+      
+Algorithm: B2
+hash.pdf ++ personal.txt
+hash.pdf ++ personal_.txt
+4bdc9f39e8f47c32f74e384ad181fc2c16f02fe709b4079693e28c72630baf4f66117a72d64f8af57e86cda6a7f47ab55869fab4d7c33fbb80b8df30ecdc9e14
+26315c2ef4da039e24ed0ae7a510602bd73c061a91b8907eb0ef53580caa245e441b7200dc39011a88ea592a46e864fadbda072beb5c310ff525aaec157cb771
+Bit diff: 250 / 512 (49%)
+      
